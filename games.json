@@ -1,0 +1,42 @@
+[
+    {
+       "name": "Matching Card Game",
+       "level": 1,
+       "concept": "Match all cards in a limited time with a certain amount of attempts.",
+       "number_of_levels": 5,
+       "time_per_round": 60,
+       "number_of_cards": 12
+    },
+
+    {
+        "name": "Word Scramble",
+        "level": 1,
+        "concept": "Unscramble the letters to create the correct word.",
+        "number_of_levels": 5,
+        "time_per_round": 120,
+        "length_of_words": 5
+    },
+    
+    {
+       "name": "tic tac toe",
+       "level": 1,
+       "concept": "create a horizontal, vertical, or diagnol line of three X's or O's in order to win.",
+        "number_of_levels": 5,
+        "time_per_round": 30
+    },
+
+    {
+        "name": "BlackJack",
+        "level": 1,
+        "concept": "create a horizontal, vertical, or diagnol line of three X's or O's in order to win.",
+        "number_of_levels": null,
+        "time_per_round": null,
+        "number_Of_Cards": 2,
+        "number_of_dealer_cards": 2,
+        "dealer_has_21": false,
+        "player_has_21": false,
+        "amount_of_chips": 100,
+        "bet_amount": 0,
+        "chips_won": 0
+    }
+ ]

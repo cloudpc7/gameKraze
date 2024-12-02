@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"> -->
+    <link rel="stylesheet" href="css/style.css">
+    <title>GameKraze</title>
+</head>
+<body class="bg-dark">
+    <div class="container-fluid text-center align-items-end d-flex flex-column mt-5">
+        <nav class="navbar navbar-expand-md justify-content-end navbar-dark bg-dark">
+          <div class="container d-flex justify-content-end">
+            <a class="navbar-brand" href="#"><i class="bi bi-dpad mx-2 h1" width="30" height="24"></i></a>
+            <h1 class="h1 text-light">GAMEKRAZE</h1>
+            <button class="navbar-toggler mx-5" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse mx-5" id="navbarSupportedContent">
+              <ul class="navbar-nav align-items-start">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="./index.html">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="./games.html">Games</a>
+                  </li>
+                  <li class="nav-item">
+                    <a  class="nav-link" href="#">
+                      About
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link">Contact</a>
+                  </li>
+                </ul>
+              </div>
+          </div>
+        </nav>
+        <div class="container-fluid d-flex flex-column align-items-center justify-content-center mt-5 ">
+          <div class="row ">
+            <h1 class="h1 text-light w-100">Matching Card Game</h1>
+            <h2 class="h2 text-light w-100 mb-4">Match Count:<span id="matches" class="ps-2"></span></h2>
+          </div>
+          <div class="row row-cols-4 align-items-center w-50 justify-content-center g-0">
+            <div class="col mb-3 me-3"><div class="card front"><img class="frontCard"/></div><div class="card back"><img class="backCard"/></div></div>
+            <div class="col mb-3 me-3"><div class="card front"><img class="frontCard"/></div><div class="card back"><img class="backCard"/></div></div>
+            <div class="col mb-3 me-3"><div class="card front"><img class="frontCard"/></div><div class="card back"><img class="backCard"/></div></div>
+            <div class="col mb-3 me-3"><div class="card front"><img class="frontCard"/></div><div class="card back"><img class="backCard"/></div></div>
+            <div class="col mb-3 me-3"><div class="card front"><img class="frontCard"/></div><div class="card back"><img class="backCard"/></div></div>
+            <div class="col mb-3 me-3"><div class="card front"><img class="frontCard"/></div><div class="card back"><img class="backCard"/></div></div>
+            <div class="col mb-3 me-3"><div class="card front"><img class="frontCard"/></div><div class="card back"><img class="backCard"/></div></div>
+            <div class="col mb-3 me-3"><div class="card front"><img class="frontCard"/></div><div class="card back"><img class="backCard"/></div></div>
+            <div class="col mb-3 me-3"><div class="card front"><img class="frontCard"/></div><div class="card back"><img class="backCard"/></div></div>
+            <div class="col mb-3 me-3"><div class="card front"><img class="frontCard"/></div><div class="card back"><img class="backCard"/></div></div>
+            <div class="col mb-3 me-3"><div class="card front"><img class="frontCard"/></div><div class="card back"><img class="backCard"/></div></div>
+            <div class="col mb-3 me-3"><div class="card front"><img class="frontCard"/></div><div class="card back"><img class="backCard"/></div></div>
+      
+          </div>
+          <button  disabled='true' id="new-game" type="submit" onclick=(newGame()) class="btn btn-primary" >New Game</button>
+        </div>
+    </div>
+    <script src="./node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    <script src="./matchingGame.js"></script>
+</html>

@@ -1,0 +1,252 @@
+[
+    {
+        "id": "1",
+        "name": "angry face",
+        "icon": "./assets/angry.png"
+    },
+    {
+        "id": "2",
+        "name": "anxious",
+        "icon": "./assets/anxious.png"
+    },
+    {
+        "id": "3",
+        "name": "clown",
+        "icon": "./assets/clown.png"
+    },
+    {
+        "id": "4",
+        "name": "cold-face",
+        "icon": "./assets/cold-face.png"
+    },
+    {
+        "id": "5",
+        "name": "confused",
+        "icon": "./assets/confused.png"
+    },
+    {
+        "id": "6",
+        "name": "cowboyhat",
+        "icon": "./assets/cowboyhat.png"
+    },
+    {
+        "id": "7",
+        "name": "crown",
+        "icon": "./assets/crown.png"
+    },
+    {
+        "id": "8",
+        "name": "disquised",
+        "icon": "./assets/disguised.png"
+    },
+    {
+        "id": "9",
+        "name": "dizzy",
+        "icon": "./assets/dizzy.png"
+    },
+    {
+        "id": "10",
+        "name": "exploding",
+        "icon": "./assets/exploding.png"
+    },
+    {
+        "id": "11",
+        "name": "tears",
+        "icon": "./assets/face-holding-back-tears.png"
+    },
+    {
+        "id": "12",
+        "name": "screaming",
+        "icon": "./assets/face-screaming-in-fear.png"
+    },
+    {
+        "id": "13",
+        "name": "overmouth",
+        "icon": "./assets/face-with-hand-over-mouth.png"
+    },
+    {
+        "id": "14",
+        "name": "headbandage",
+        "icon": "./assets/face-with-head-bandage.png"
+    },
+    {
+        "id": "15",
+        "name": "monocle",
+        "icon": "./assets/face-with-monocle.png"
+    },
+    {
+        "id": "16",
+        "name": "openmouth",
+        "icon": "./assets/face-with-open-mouth.png"
+    },
+    {
+        "id": "17",
+        "name": "peeking",
+        "icon": "./assets/face-with-peeking-eye.png"
+    },
+    {
+        "id": "18",
+        "name": "spiral",
+        "icon": "./assets/face-with-spiral-eyes.png"
+    },
+    {
+        "id": "19",
+        "name": "steam",
+        "icon": "./assets/face-with-steam-from-nose.png"
+    },
+    {
+        "id": "20",
+        "name": "symbols",
+        "icon": "./assets/face-with-symbols-on-mouth.png"
+    },
+    {
+        "id": "21",
+        "name": "thermometer",
+        "icon": "./assets/face-with-thermometer.png"
+    },
+    {
+        "id": "22",
+        "name": "withoutmouth",
+        "icon": "./assets/face-without-mouth.png"
+    },
+    {
+        "id": "23",
+        "name": "grinning cat",
+        "icon": "./assets/grinning-cat.png"
+    },
+    {
+        "id": "24",
+        "name": "grinning face",
+        "icon": "./assets/grinning-face.png"
+    },
+    {
+        "id": "25",
+        "name": "squinting face",
+        "icon": "./assets/grinning-squinting-face.png"
+    },
+    {
+        "id": "26",
+        "name": "red heart",
+        "icon": "./assets/heart.png"
+    },
+    {
+        "id": "27",
+        "name": "blue heart",
+        "icon": "./assets/heart2.png"
+    },
+    {
+        "id": "28",
+        "name": "gold heart",
+        "icon": "./assets/heart3.png"
+    },
+    {
+        "id": "29",
+        "name": "hot face",
+        "icon": "./assets/hot-face.png"
+    },
+    {
+        "id": "30",
+        "name": "hugging face",
+        "icon": "./assets/hugging-face.png"
+    },
+    {
+        "id": "31",
+        "name": "money mouth",
+        "icon": "./assets/money-mouth.png"
+    },
+    {
+        "id": "32",
+        "name": "monkey face",
+        "icon": "./assets/monkey-face.png"
+    },
+    {
+        "id": "33",
+        "name": "nerd face",
+        "icon": "./assets/nerd-face.png"
+    },
+    {
+        "id": "34",
+        "name": "party face",
+        "icon": "./assets/partying-face.png"
+    },
+    {
+        "id": "35",
+        "name": "poo",
+        "icon": "./assets/pile-of-poo.png"
+    },
+    {
+        "id": "36",
+        "name": "pleading face",
+        "icon": "./assets/pleading-face.png"
+    },
+    {
+        "id": "37",
+        "name": "pouting cat",
+        "icon": "./assets/pouting-cat.png"
+    },
+    {
+        "id": "38",
+        "name": "rock guitar",
+        "icon": "./assets/rock-music.png"
+    },
+    {
+        "id": "39",
+        "name": "laughing",
+        "icon": "./assets/rolling-on-the-floor-laughing.png"
+    },
+    {
+        "id": "40",
+        "name": "saluting",
+        "icon": "./assets/saluting-face.png"
+    },
+    {
+        "id": "41",
+        "name": "shushing",
+        "icon": "./assets/shushing-face.png"
+    },
+    {
+        "id": "42",
+        "name": "silent",
+        "icon": "./assets/silent-emoji.png"
+    },
+    {
+        "id": "43",
+        "name": "skull",
+        "icon": "./assets/skull-and-crossbones.png"
+    },
+    {
+        "id": "44",
+        "name": "sunglasses",
+        "icon": "./assets/smiling-face-with-sunglasses.png"
+    },
+    {
+        "id": "45",
+        "name": "speak no evil",
+        "icon": "./assets/speak-no-evil-monkey.png"
+    },
+    {
+        "id": "46",
+        "name": "tired face",
+        "icon": "./assets/tired-face-emoji.png"
+    },
+    {
+        "id": "47",
+        "name": "unamused face",
+        "icon": "./assets/unamused-face.png"
+    },
+    {
+        "id": "48",
+        "name": "weary face",
+        "icon": "./assets/weary-face.png"
+    },
+    {
+        "id": "49",
+        "name": "winking face",
+        "icon": "./assets/winking-face-with-tongue-emoji.png"
+    },
+    {
+        "id": "50",
+        "name": "woozy face",
+        "icon": "./assets/woozy-face.png"
+    }
+]
